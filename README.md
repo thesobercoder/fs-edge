@@ -1,4 +1,4 @@
-# Freestyle Edge RGB
+# Kinesis Freestyle Edge RGB Settings
 
 A backup of the layouts and lighting profiles for my Kinesis Freestyle Edge RGB keyboard.
 
