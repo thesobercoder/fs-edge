@@ -12,9 +12,9 @@
 fn {lft}>{x1}{-lctrl}{-alt}{-lft}{+lft}{+alt}{+lctrl}
 fn {rght}>{x1}{-lctrl}{-alt}{-rght}{+rght}{+alt}{+lctrl}
 fn {up}>{x1}{-lctrl}{-alt}{/}{+alt}{+lctrl}
-fn {r}>{x1}{-shft}{-lctrl}{-win}{-alt}{r}{+alt}{+win}{+lctrl}{+shft}
-fn {p}>{x1}{-shft}{-lctrl}{-win}{-alt}{p}{+alt}{+win}{+lctrl}{+shft}
-fn {w}>{x1}{-shft}{-lctrl}{-win}{-alt}{w}{+alt}{+win}{+lctrl}{+shft}
-fn {d}>{x1}{-shft}{-lctrl}{-win}{-alt}{d}{+alt}{+win}{+lctrl}{+shft}
-fn {m}>{x1}{-shft}{-lctrl}{-win}{-alt}{m}{+alt}{+win}{+lctrl}{+shft}
-fn {h}>{x1}{-shft}{-lctrl}{-win}{-alt}{h}{+alt}{+win}{+lctrl}{+shft}
+fn {r}>{x1}{-lshft}{-lctrl}{-lwin}{-lalt}{r}{+lalt}{+lwin}{+lctrl}{+lshft}
+fn {p}>{x1}{-lshft}{-lctrl}{-lwin}{-lalt}{p}{+lalt}{+lwin}{+lctrl}{+lshft}
+fn {w}>{x1}{-lshft}{-lctrl}{-lwin}{-lalt}{w}{+lalt}{+lwin}{+lctrl}{+lshft}
+fn {d}>{x1}{-lshft}{-lctrl}{-lwin}{-lalt}{d}{+lalt}{+lwin}{+lctrl}{+lshft}
+fn {m}>{x1}{-lshft}{-lctrl}{-lwin}{-lalt}{m}{+lalt}{+lwin}{+lctrl}{+lshft}
+fn {h}>{x1}{-lshft}{-lctrl}{-lwin}{-lalt}{h}{+lalt}{+lwin}{+lctrl}{+lshft}
