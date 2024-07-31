@@ -1,0 +1,13 @@
+[lwin]>[lalt]
+[lalt]>[lwin]
+[hk1]>[vol-]
+[hk2]>[vol+]
+[hk3]>[play]
+[hk4]>[f16]
+[hk5]>[f17]
+[hk6]>[f18]
+[hk7]>[f19]
+[rspc]>[bspc]
+fn {lft}>{x1}{-lctrl}{-alt}{-lft}{+lft}{+alt}{+lctrl}
+fn {rght}>{x1}{-lctrl}{-alt}{-rght}{+rght}{+alt}{+lctrl}
+fn {up}>{x1}{-lctrl}{-alt}{/}{+alt}{+lctrl}
