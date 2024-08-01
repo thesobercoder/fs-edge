@@ -32,3 +32,8 @@ Descriptions to come.
 ## Lighting profiles
 
 Descriptions to come.
+
+## Links
+
+- [Kinesis Freestyle Edge RGB](https://gaming.kinesis-ergo.com/edge)
+- [Kinesis Freestyle Edge RGB Support](https://gaming.kinesis-ergo.com/fs-edge-rgb-support/)
