@@ -1,4 +1,2 @@
-[rain]>[0][255][0][spd5]
-[mono]>[0][0][0]
-fn [rain]>[0][255][0][spd5]
-fn [mono]>[255][255][255]
+[wave]>[spd5][dirleft]
+fn [spectrum]>[spd5]
